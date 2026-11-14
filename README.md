@@ -25,3 +25,10 @@ Via Progress → Recent Sessions kun je voltooide trainingen openen, sets wijzig
 
 ## V1.2 — Workout Editor
 Open TRAIN → EDIT PROGRAM om oefeningen te hernoemen, vervangen, toevoegen, verwijderen of te verplaatsen en sets/reps/rust/gewichten aan te passen. Wijzigingen worden lokaal bewaard en meegenomen in de volledige backup. De standaard Workout B bevat Seated Leg Curl in plaats van RDL. Historische sessies blijven ongewijzigd. Een reeds gestarte training verandert niet tijdens programma-aanpassingen.
+
+
+## V1.3 — iOS light redesign
+Visuele update: iOS-achtige lichte interface, subtiele teal-accenten, compactere workoutkaarten en native-style tabbar. Bestaande localStorage key en backupformaat blijven gelijk. Maak een backup voordat je update.
+
+## V1.4 — iOS White
+Pure white UI, neutral iOS grays, subtle system-blue accents, reduced shadows. Functionality and data schema unchanged. Before uploading, export a full backup.
