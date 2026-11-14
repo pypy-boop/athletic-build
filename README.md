@@ -19,3 +19,6 @@ Trainingsdata worden lokaal in `localStorage` bewaard. GitHub ontvangt geen work
 - Gewicht van dumbbells is per hand; bij machines is het de getoonde machinebelasting. De app toont nog geen eenheden per oefening.
 - Wijzigingen aan `program.json` beïnvloeden nieuwe sessies, niet reeds opgeslagen sessies.
 - PWA-updates kunnen na opnieuw openen zichtbaar worden.
+
+## v1.1
+Via Progress → Recent Sessions kun je voltooide trainingen openen, sets wijzigen of een training verwijderen. Bij verwijderen wordt de volgende training bepaald door de laatste overgebleven sessie. Maak vooraf een backup.
