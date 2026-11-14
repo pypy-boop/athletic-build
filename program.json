@@ -1,0 +1,282 @@
+[
+  {
+    "id": "A",
+    "name": "Upper Strength",
+    "focus": "Chest \u00b7 Lats \u00b7 Quads",
+    "ex": [
+      {
+        "name": "Incline DB Press",
+        "sets": 3,
+        "min": 6,
+        "max": 10,
+        "weight": 24,
+        "step": 2.0,
+        "rest": 150
+      },
+      {
+        "name": "Assisted Pull-ups",
+        "sets": 3,
+        "min": 5,
+        "max": 8,
+        "weight": 14,
+        "step": 7,
+        "rest": 150
+      },
+      {
+        "name": "Chest-Supported Row",
+        "sets": 3,
+        "min": 8,
+        "max": 10,
+        "weight": 30,
+        "step": 5,
+        "rest": 120
+      },
+      {
+        "name": "Leg Press",
+        "sets": 3,
+        "min": 8,
+        "max": 12,
+        "weight": 140,
+        "step": 10,
+        "rest": 120
+      },
+      {
+        "name": "DB Lateral Raise",
+        "sets": 3,
+        "min": 12,
+        "max": 20,
+        "weight": 7,
+        "step": 1,
+        "rest": 60
+      },
+      {
+        "name": "Incline DB Curl",
+        "sets": 3,
+        "min": 8,
+        "max": 12,
+        "weight": 8,
+        "step": 2,
+        "rest": 75
+      },
+      {
+        "name": "Rope Triceps Pushdown",
+        "sets": 2,
+        "min": 10,
+        "max": 15,
+        "weight": 7.5,
+        "step": 2.5,
+        "rest": 60
+      }
+    ]
+  },
+  {
+    "id": "B",
+    "name": "Posterior Chain",
+    "focus": "Hamstrings \u00b7 Glutes \u00b7 Core",
+    "ex": [
+      {
+        "name": "DB Romanian Deadlift",
+        "sets": 3,
+        "min": 8,
+        "max": 10,
+        "weight": 18,
+        "step": 2,
+        "rest": 150
+      },
+      {
+        "name": "Leg Curl",
+        "sets": 3,
+        "min": 10,
+        "max": 15,
+        "weight": 45,
+        "step": 5,
+        "rest": 90
+      },
+      {
+        "name": "Neutral-Grip Lat Pulldown",
+        "sets": 3,
+        "min": 8,
+        "max": 12,
+        "weight": 50,
+        "step": 5,
+        "rest": 120
+      },
+      {
+        "name": "DB Shoulder Press",
+        "sets": 3,
+        "min": 8,
+        "max": 12,
+        "weight": 14,
+        "step": 2,
+        "rest": 120
+      },
+      {
+        "name": "45\u00b0 Back Extension",
+        "sets": 2,
+        "min": 10,
+        "max": 15,
+        "weight": 10,
+        "step": 2.5,
+        "rest": 90
+      },
+      {
+        "name": "Pallof Press",
+        "sets": 2,
+        "min": 10,
+        "max": 12,
+        "weight": 5,
+        "step": 2.5,
+        "rest": 60
+      },
+      {
+        "name": "Standing Calf Raise",
+        "sets": 3,
+        "min": 10,
+        "max": 15,
+        "weight": 60,
+        "step": 5,
+        "rest": 60
+      }
+    ]
+  },
+  {
+    "id": "C",
+    "name": "Upper Hypertrophy",
+    "focus": "Chest \u00b7 Back \u00b7 Delts",
+    "ex": [
+      {
+        "name": "Incline DB Press",
+        "sets": 3,
+        "min": 8,
+        "max": 12,
+        "weight": 22,
+        "step": 2,
+        "rest": 120
+      },
+      {
+        "name": "Chest-Supported Row",
+        "sets": 3,
+        "min": 8,
+        "max": 12,
+        "weight": 30,
+        "step": 5,
+        "rest": 120
+      },
+      {
+        "name": "Leg Press",
+        "sets": 3,
+        "min": 10,
+        "max": 15,
+        "weight": 120,
+        "step": 10,
+        "rest": 120
+      },
+      {
+        "name": "1-Arm Lat Pulldown",
+        "sets": 2,
+        "min": 10,
+        "max": 12,
+        "weight": 15,
+        "step": 2.5,
+        "rest": 90
+      },
+      {
+        "name": "DB Lateral Raise",
+        "sets": 3,
+        "min": 12,
+        "max": 20,
+        "weight": 7,
+        "step": 1,
+        "rest": 60
+      },
+      {
+        "name": "Hammer Curl",
+        "sets": 3,
+        "min": 8,
+        "max": 12,
+        "weight": 10,
+        "step": 2,
+        "rest": 75
+      },
+      {
+        "name": "Rope Triceps Pushdown",
+        "sets": 3,
+        "min": 10,
+        "max": 15,
+        "weight": 7.5,
+        "step": 2.5,
+        "rest": 60
+      }
+    ]
+  },
+  {
+    "id": "D",
+    "name": "Full Body & Arms",
+    "focus": "Delts \u00b7 Arms \u00b7 Full Body",
+    "ex": [
+      {
+        "name": "DB Romanian Deadlift",
+        "sets": 2,
+        "min": 10,
+        "max": 12,
+        "weight": 18,
+        "step": 2,
+        "rest": 120
+      },
+      {
+        "name": "Flat DB Chest Press",
+        "sets": 3,
+        "min": 8,
+        "max": 12,
+        "weight": 20,
+        "step": 2,
+        "rest": 120
+      },
+      {
+        "name": "Assisted Pull-ups",
+        "sets": 3,
+        "min": 6,
+        "max": 10,
+        "weight": 14,
+        "step": 7,
+        "rest": 120
+      },
+      {
+        "name": "DB Lateral Raise",
+        "sets": 3,
+        "min": 12,
+        "max": 20,
+        "weight": 7,
+        "step": 1,
+        "rest": 60
+      },
+      {
+        "name": "Incline DB Curl",
+        "sets": 3,
+        "min": 10,
+        "max": 12,
+        "weight": 8,
+        "step": 2,
+        "rest": 75
+      },
+      {
+        "name": "Rope Triceps Pushdown",
+        "sets": 3,
+        "min": 10,
+        "max": 15,
+        "weight": 7.5,
+        "step": 2.5,
+        "rest": 75
+      },
+      {
+        "name": "Reverse Crunch",
+        "sets": 3,
+        "min": 10,
+        "max": 15,
+        "weight": 0,
+        "step": 0,
+        "rest": 60
+      }
+    ]
+  }
+]
