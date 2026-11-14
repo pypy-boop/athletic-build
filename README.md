@@ -22,3 +22,6 @@ Trainingsdata worden lokaal in `localStorage` bewaard. GitHub ontvangt geen work
 
 ## v1.1
 Via Progress → Recent Sessions kun je voltooide trainingen openen, sets wijzigen of een training verwijderen. Bij verwijderen wordt de volgende training bepaald door de laatste overgebleven sessie. Maak vooraf een backup.
+
+## V1.2 — Workout Editor
+Open TRAIN → EDIT PROGRAM om oefeningen te hernoemen, vervangen, toevoegen, verwijderen of te verplaatsen en sets/reps/rust/gewichten aan te passen. Wijzigingen worden lokaal bewaard en meegenomen in de volledige backup. De standaard Workout B bevat Seated Leg Curl in plaats van RDL. Historische sessies blijven ongewijzigd. Een reeds gestarte training verandert niet tijdens programma-aanpassingen.

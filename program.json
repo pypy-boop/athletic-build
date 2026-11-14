@@ -2,7 +2,7 @@
   {
     "id": "A",
     "name": "Upper Strength",
-    "focus": "Chest \u00b7 Lats \u00b7 Quads",
+    "focus": "Chest · Lats · Quads",
     "ex": [
       {
         "name": "Incline DB Press",
@@ -72,16 +72,16 @@
   {
     "id": "B",
     "name": "Posterior Chain",
-    "focus": "Hamstrings \u00b7 Glutes \u00b7 Core",
+    "focus": "Hamstrings · Glutes · Core",
     "ex": [
       {
-        "name": "DB Romanian Deadlift",
+        "name": "Seated Leg Curl",
         "sets": 3,
-        "min": 8,
-        "max": 10,
-        "weight": 18,
-        "step": 2,
-        "rest": 150
+        "min": 10,
+        "max": 12,
+        "weight": 25,
+        "step": 2.5,
+        "rest": 90
       },
       {
         "name": "Leg Curl",
@@ -111,7 +111,7 @@
         "rest": 120
       },
       {
-        "name": "45\u00b0 Back Extension",
+        "name": "45° Back Extension",
         "sets": 2,
         "min": 10,
         "max": 15,
@@ -142,7 +142,7 @@
   {
     "id": "C",
     "name": "Upper Hypertrophy",
-    "focus": "Chest \u00b7 Back \u00b7 Delts",
+    "focus": "Chest · Back · Delts",
     "ex": [
       {
         "name": "Incline DB Press",
@@ -212,7 +212,7 @@
   {
     "id": "D",
     "name": "Full Body & Arms",
-    "focus": "Delts \u00b7 Arms \u00b7 Full Body",
+    "focus": "Delts · Arms · Full Body",
     "ex": [
       {
         "name": "DB Romanian Deadlift",
